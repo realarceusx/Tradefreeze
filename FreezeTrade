@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realarceusx/Lua/refs/heads/main/Youtube"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realarceusx/Lua/refs/heads/main/YouTube"))()
